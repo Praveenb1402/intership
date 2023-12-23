@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "422904294153",
+    "project_id": "intership-4920e",
+    "storage_bucket": "intership-4920e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422904294153:android:67ddacfad41d99ad5281d8",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422904294153-9r1itspbtni1f4frct4mjbtnsvl3ikpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi3kALG6TlrgqMiDZcjQjIKsSnUESPGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422904294153-9r1itspbtni1f4frct4mjbtnsvl3ikpt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422904294153-4d1gbl9gfh0i4rle7m1g1ri2mg181i3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
